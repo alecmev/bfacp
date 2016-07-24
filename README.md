@@ -1,6 +1,6 @@
 # Dockerized [Battlefield Admin Control Panel](https://github.com/Prophet731/BFAdminCP)
 
-[![Docker Hub](https://img.shields.io/badge/container-ready-blue.svg?style=flat-square)]()
+[![Docker Hub](https://img.shields.io/badge/container-ready-blue.svg?style=flat-square)](https://hub.docker.com/r/jeremejevs/bfacp/)
 
 Easy to configure:
 
